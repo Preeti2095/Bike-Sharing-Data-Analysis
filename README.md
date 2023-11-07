@@ -10,4 +10,4 @@
 - notebooks folder contain the juypter notebook where i have explored the dataset and marked the observations from the graphs and stats.
 
 # Presentation
-- One presentation is also attached to show my findings to the stakeholders.
+- One presentation is also attached to show my findings to the stakeholders https://docs.google.com/presentation/d/1US2ctNHhnNsJkTWe8W-0JjvYDPpK38gb/edit?usp=drive_link&ouid=107951839468277675333&rtpof=true&sd=true.
